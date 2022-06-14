@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @Edbassey
+- 👋 Hi, I’m **Edu Bassey**,<br> <i>Frontend Web Developer and Cross-platform Mobile App Developer.</i>
+
 - 👀 I’m interested in networking.
-- 🌱 I’m currently learning front end web development.
-- 💞️ I’m looking to collaborate on any tech related projects.
-- 📫 How to reach me www.LinkedIn.com/in/edubassey
+
+- 🌱 **Technologies stack:** <br>
+  I'm proficient with the HTML5, CSS3, SASS, Figma, Git/Github, Bootstrap, Javascript, React.js, Canva, Microsoft packages and a couple more.<br>
+  My tech journey's not limited to these aforementioned though cause I'm just getting started.
+
+- 💞️ I’m looking to collaborate on any tech related projects and more.
+
+- 📫 **Contact me:** <br>
+  You can reach me on edbassey1@gmail.com or www.LinkedIn.com/in/edubassey
+
+  **Extra-programming capabilities:** <br>
+  There are a lot other things I can do if not writing codes, they're and not limited to Solar/inverter installation, CCTV installation, Teaching.
+
+  **Hobbies:** <br>
+Reading, coding and traveling.
+
 
 <!---
 Edbassey/Edbassey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
