@@ -1,9 +1,9 @@
-- 👋 Hi, I’m **Edu Bassey**,<br> <i>Frontend Web Developer and Cross-platform Mobile App Developer.</i>
+- 👋 Hi, I’m **Edu Bassey**,<br> <i>Frontend Developer.</i>
 
 - 👀 I’m interested in networking.
 
 - 🌱 **Technologies stack:** <br>
-  I'm proficient with the HTML5, CSS3, SASS, Figma, Git/Github, Bootstrap, Javascript, React.js, Canva, Microsoft packages and a couple more.<br>
+  My Tech stacks are the HTML5, CSS3, SASS, Figma, Git/Github, Bootstrap, Javascript, React.js, Canva, Microsoft packages and a couple more.<br>
   My tech journey's not limited to these aforementioned though cause I'm just getting started.
 
 - 💞️ I’m looking to collaborate on any tech related projects and more.
